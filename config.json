@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedpdate",
+        "uuid": 6923844,
+        "checksum": "h7itho"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
